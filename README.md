@@ -3,6 +3,8 @@
 
 <h2>Problemas de otimização</h2>
 
+<br>
+
 <ul>
 
     -Estado ao invés de caminho; 
@@ -20,3 +22,62 @@
     -Mantém uma lista de estados candidatos (estado que maximiza ou minimiza a minha função);
 
 </ul>
+
+<br>
+<br>
+
+### Função objetivo f:
+<ul>
+    <li>
+    Minimização:
+        Estado para o qual f é mínimo
+    </li>
+    <li>
+    Maximização:
+        Estado para o qual f é máximo
+    </li>
+</ul>
+
+<br>
+<br>
+
+<img src="max_min.png">
+
+<hr>
+<br>
+
+<h1>Primeiro algoritmo</h1>
+
+<h2>--> Subida de encosta</h2>
+<br>
+<img src="encosta.png">
+
+<br>
+<br>
+<br>
+
+### O funcionamento do algoritmo acontece quando o estado atual(azul) e maior ou igual que o o estado vizinho(vermelho). Dessa forma, a cada iteração ocorre essa verificação para chegar a um máximo global ou mínimo global.
+<br>
+<br>
+<img src="grafico.png">
+
+
+<br>
+<br>
+
+## Implementar um algoritmo de otmização é algo análogo ao de um algoritmo de busca.
+
+<br>
+<br>
+
+## Otimização
+    - Estado inicial;
+    - Sucessor;
+    - Função objetivo.
+
+
+
+## Busca
+    - Estado inicial;
+    - Expandir;
+    - Heurística.
