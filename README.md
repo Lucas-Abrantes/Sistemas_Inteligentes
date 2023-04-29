@@ -5,12 +5,18 @@
 
 <ul>
 
-    <li>-Estado ao invés de caminho </li>
-    <li>-Espaço de estados muito grandes </li>
-    <li>-Busca cega inviável</li>
-     <li>-Não mantém o caminho </li>
-     <li>-Não toda a lista de estados explorados </li>
-      <li>-Mantém o estado atual </li>
-      <li>-Mantém uma lista de estados candidatos (estado que maximiza ou minimiza a minha função)</li>
+    -Estado ao invés de caminho; 
+
+    -Espaço de estados muito grandes;
+
+    -Busca cega inviável;
+
+    -Não mantém o caminho;
+
+    -Não toda a lista de estados explorados;
+
+    -Mantém o estado atual;
+
+    -Mantém uma lista de estados candidatos (estado que maximiza ou minimiza a minha função);
 
 </ul>
