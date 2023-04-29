@@ -41,7 +41,7 @@
 <br>
 <br>
 
-<img src="max_min.png">
+<img src="imagens/max_min.png">
 
 <hr>
 <br>
@@ -50,7 +50,7 @@
 
 <h2>--> Subida de encosta</h2>
 <br>
-<img src="encosta.png">
+<img src="imagens/encosta.png">
 
 <br>
 <br>
@@ -59,7 +59,7 @@
 ### O funcionamento do algoritmo acontece quando o estado atual(azul) e maior ou igual que o o estado vizinho(vermelho). Dessa forma, a cada iteração ocorre essa verificação para chegar a um máximo global ou mínimo global.
 <br>
 <br>
-<img src="grafico.png">
+<img src="imagens/grafico.png">
 
 
 <br>
