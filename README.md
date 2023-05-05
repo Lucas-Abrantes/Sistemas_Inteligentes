@@ -81,3 +81,22 @@
     - Estado inicial;
     - Expandir;
     - Heurística.
+
+
+## Problemas do algoritmo
+    - Preso facilmento em min/max locais;
+    - Não é garantidamente ótimo.
+
+## Solução 
+    - Reinício aleatório;
+    - Estabelecer um critério de parada;
+    - Analisar se é ótimo.
+
+
+<br>
+<hr>
+<hr>
+
+<br>
+
+<h1>Têpera simulada</h1>
