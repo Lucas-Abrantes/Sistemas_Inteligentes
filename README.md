@@ -99,4 +99,4 @@
 
 <br>
 
-<h1>Têpera simulada</h1>
+<h1>Têmpera simulada</h1>
